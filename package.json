@@ -1,6 +1,6 @@
 {
   "name": "expressstarter",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Express Js starter with all important setup.",
   "main": "index.js",
   "scripts": {
