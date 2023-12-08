@@ -15,7 +15,8 @@ We welcome and appreciate contributions! Please follow these guidelines when con
 The following setups have been completed:
 
 - Basic ExpressJS setup with TypeScript
-- [List other completed setups or functionalities]
+- Validated Typesafe Routing
+- Basic Logging
 
 ## Remaining Checklist
 
